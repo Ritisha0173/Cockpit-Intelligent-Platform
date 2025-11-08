@@ -10,3 +10,4 @@ To develop an intelligent cockpit monitoring system using sensors and Arduino th
 # Novelty
 
 This project offers a 360-degree driver activity monitoring system that detects abnormal driving patterns in real-time using integrated sensors and C-programming. Unlike traditional systems, it focuses on behavioral evidence rather than only vehicle data, addressing environmental and situational factors that influence driver performance.
+<img width="472" height="469" alt="Image" src="https://github.com/user-attachments/assets/bb7640ec-d605-46a0-aded-fbe28aa224ce" />
